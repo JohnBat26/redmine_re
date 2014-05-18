@@ -1,4 +1,4 @@
-class RatingsController < ApplicationController
+class ReRatingsController < ApplicationController
   unloadable
 
   def create
